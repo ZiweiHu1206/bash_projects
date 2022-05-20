@@ -1,8 +1,5 @@
 #!/bin/bash
   
-#Ziwei Hu
-#Faculty of Science
-#zhu21@mimi.cs.mcgill.ca 260889365
 
 #check the number of input arguments
 if [[ $# -ne 2 ]]
